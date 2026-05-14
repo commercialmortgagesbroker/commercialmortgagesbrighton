@@ -1,0 +1,247 @@
+{
+  "updatedAt": "2026-05-14",
+  "authority": "brighton-and-hove-city-council",
+  "count": 24,
+  "applications": [
+    {
+      "ref": "BH2026/01245/FUL",
+      "address": "Edward Street Quarter, Edward Street, Brighton BN2 0JD",
+      "postcode": "BN2 0JD",
+      "proposal": "Edward Street Quarter Phase 3 mixed-use scheme, Boultbee Brooks-led delivery of Grade A office, build-to-rent residential, retail and F&B accommodation in central Brighton's flagship regen zone",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "12/04/2026",
+      "portal": "https://planningapps.brighton-hove.gov.uk/online-applications/"
+    },
+    {
+      "ref": "BH2026/01198/FUL",
+      "address": "Preston Barracks, Lewes Road, Brighton BN2 4GJ",
+      "postcode": "BN2 4GJ",
+      "proposal": "Preston Barracks Plus X Innovation Hub expansion, additional managed workspace and creative-industries lab and studio accommodation supporting the University of Brighton Plus X partnership",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "28/03/2026",
+      "portal": "https://planningapps.brighton-hove.gov.uk/online-applications/"
+    },
+    {
+      "ref": "BH2026/01102/COU",
+      "address": "Kings Road, Brighton BN1 2GR",
+      "postcode": "BN1 2GR",
+      "proposal": "Kings Road seafront hotel refurbishment, retention of independent seafront hotel use with new ground-floor F&B accommodation",
+      "type": "COU",
+      "status": "Approved",
+      "received": "15/03/2026",
+      "portal": "https://planningapps.brighton-hove.gov.uk/online-applications/"
+    },
+    {
+      "ref": "BH2026/01045/FUL",
+      "address": "North Laine, Bond Street, Brighton BN1 1RD",
+      "postcode": "BN1 1RD",
+      "proposal": "North Laine independent retail unit subdivision, frontage works retaining the heritage independent retail character with extended F&B above",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "05/03/2026",
+      "portal": "https://planningapps.brighton-hove.gov.uk/online-applications/"
+    },
+    {
+      "ref": "BH2026/00978/FUL",
+      "address": "Brighton Marina, Gallery, Brighton BN2 5UF",
+      "postcode": "BN2 5UF",
+      "proposal": "Brighton Marina retail and leisure intensification, new F&B and waterside leisure accommodation alongside additional residential",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "20/02/2026",
+      "portal": "https://planningapps.brighton-hove.gov.uk/online-applications/"
+    },
+    {
+      "ref": "BH2026/00892/COU",
+      "address": "23 The Lanes, Brighton BN1 1HB",
+      "postcode": "BN1 1HB",
+      "proposal": "The Lanes change of use of upper floors above antique-trade retail unit to managed short-let visitor accommodation with retained ground-floor independent retail",
+      "type": "COU",
+      "status": "Approved",
+      "received": "06/02/2026",
+      "portal": "https://planningapps.brighton-hove.gov.uk/online-applications/"
+    },
+    {
+      "ref": "BH2026/00802/FUL",
+      "address": "Western Road, Hove BN3 1AS",
+      "postcode": "BN3 1AS",
+      "proposal": "Western Road Hove retail parade refurbishment, frontage works and change of use of upper floors to managed serviced offices with retained ground-floor retail and F&B",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "22/01/2026",
+      "portal": "https://planningapps.brighton-hove.gov.uk/online-applications/"
+    },
+    {
+      "ref": "BH2026/00712/FUL",
+      "address": "Madeira Terrace, Madeira Drive, Brighton BN2 1PS",
+      "postcode": "BN2 1PS",
+      "proposal": "Madeira Terrace heritage seafront restoration Phase 2, leisure and F&B accommodation in restored Victorian seafront arches",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "08/01/2026",
+      "portal": "https://planningapps.brighton-hove.gov.uk/online-applications/"
+    },
+    {
+      "ref": "BH2026/00645/FUL",
+      "address": "Kemptown, St James Street, Brighton BN2 1RP",
+      "postcode": "BN2 1RP",
+      "proposal": "Kemptown St James Street independent F&B unit reconfiguration, change of use of upper-floor residential to short-let visitor accommodation",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "20/12/2025",
+      "portal": "https://planningapps.brighton-hove.gov.uk/online-applications/"
+    },
+    {
+      "ref": "BH2025/02892/COU",
+      "address": "Seven Dials, Goldsmid Road, Brighton BN1 5BP",
+      "postcode": "BN1 5BP",
+      "proposal": "Seven Dials change of use of independent retail to F&B with rear extension and outdoor seating area",
+      "type": "COU",
+      "status": "Approved",
+      "received": "05/12/2025",
+      "portal": "https://planningapps.brighton-hove.gov.uk/online-applications/"
+    },
+    {
+      "ref": "BH2025/02745/FUL",
+      "address": "Churchill Square Shopping Centre, Brighton BN1 2RG",
+      "postcode": "BN1 2RG",
+      "proposal": "Churchill Square Shopping Centre tenant mix reconfiguration, Hammerson-led F&B refresh and new leisure accommodation",
+      "type": "FUL",
+      "status": "Pending",
+      "received": "18/11/2025",
+      "portal": "https://planningapps.brighton-hove.gov.uk/online-applications/"
+    },
+    {
+      "ref": "BH2025/02612/COU",
+      "address": "London Road, Brighton BN1 4JF",
+      "postcode": "BN1 4JF",
+      "proposal": "London Road regeneration scheme, mixed-use frontage refresh including ground-floor retail and F&B with managed residential above",
+      "type": "COU",
+      "status": "Approved",
+      "received": "02/11/2025",
+      "portal": "https://planningapps.brighton-hove.gov.uk/online-applications/"
+    },
+    {
+      "ref": "BH2025/02478/FUL",
+      "address": "King Alfred Leisure Centre Site, Kingsway, Hove BN3 2WL",
+      "postcode": "BN3 2WL",
+      "proposal": "King Alfred site mixed-use residential and replacement leisure accommodation alongside ground-floor commercial",
+      "type": "FUL",
+      "status": "Pending",
+      "received": "18/10/2025",
+      "portal": "https://planningapps.brighton-hove.gov.uk/online-applications/"
+    },
+    {
+      "ref": "BH2025/02345/FUL",
+      "address": "George Street, Hove BN3 3YE",
+      "postcode": "BN3 3YE",
+      "proposal": "George Street Hove independent retail parade refurbishment, frontage and shopfront upgrades in the Hove central independent retail spine",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "04/10/2025",
+      "portal": "https://planningapps.brighton-hove.gov.uk/online-applications/"
+    },
+    {
+      "ref": "BH2025/02212/COU",
+      "address": "Lewes Road, Brighton BN2 3HQ",
+      "postcode": "BN2 3HQ",
+      "proposal": "Lewes Road conversion of large family dwelling to licensed HMO (C4) accommodation, common in the East Brighton student belt serving University of Brighton",
+      "type": "COU",
+      "status": "Approved",
+      "received": "20/09/2025",
+      "portal": "https://planningapps.brighton-hove.gov.uk/online-applications/"
+    },
+    {
+      "ref": "BH2025/02078/FUL",
+      "address": "Preston Park Avenue, Brighton BN1 6HG",
+      "postcode": "BN1 6HG",
+      "proposal": "Preston Park Avenue creative office scheme, conversion of period commercial building to managed flexible workspace serving Brighton creative SMEs",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "06/09/2025",
+      "portal": "https://planningapps.brighton-hove.gov.uk/online-applications/"
+    },
+    {
+      "ref": "BH2025/01945/FUL",
+      "address": "Falmer Campus, University of Sussex, Brighton BN1 9RH",
+      "postcode": "BN1 9RH",
+      "proposal": "University of Sussex Falmer campus refresh, additional Purpose-Built Student Accommodation (PBSA) blocks and academic lab accommodation",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "23/08/2025",
+      "portal": "https://planningapps.brighton-hove.gov.uk/online-applications/"
+    },
+    {
+      "ref": "BH2025/01812/FUL",
+      "address": "Black Rock Site, Madeira Drive, Brighton BN2 5TN",
+      "postcode": "BN2 5TN",
+      "proposal": "Black Rock site leisure and events venue scheme, seafront leisure regeneration adjacent to Brighton Marina",
+      "type": "FUL",
+      "status": "Pending",
+      "received": "09/08/2025",
+      "portal": "https://planningapps.brighton-hove.gov.uk/online-applications/"
+    },
+    {
+      "ref": "BH2025/01678/FUL",
+      "address": "Hollingbury Industrial Estate, Crowhurst Road, Brighton BN1 8AF",
+      "postcode": "BN1 8AF",
+      "proposal": "Hollingbury Industrial Estate light industrial unit expansion, additional Class B2 and Class B8 storage accommodation",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "26/07/2025",
+      "portal": "https://planningapps.brighton-hove.gov.uk/online-applications/"
+    },
+    {
+      "ref": "BH2025/01545/COU",
+      "address": "Boundary Road, Hove BN3 4EH",
+      "postcode": "BN3 4EH",
+      "proposal": "Boundary Road Hangleton parade change of use of upper floors of retail unit to managed serviced offices",
+      "type": "COU",
+      "status": "Approved",
+      "received": "12/07/2025",
+      "portal": "https://planningapps.brighton-hove.gov.uk/online-applications/"
+    },
+    {
+      "ref": "BH2025/01412/FUL",
+      "address": "Old Steine, Brighton BN1 1EJ",
+      "postcode": "BN1 1EJ",
+      "proposal": "Old Steine heritage hotel refurbishment, retention of independent hotel use with new ground-floor F&B and conference accommodation",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "29/06/2025",
+      "portal": "https://planningapps.brighton-hove.gov.uk/online-applications/"
+    },
+    {
+      "ref": "BH2025/01278/COU",
+      "address": "Trafalgar Street, Brighton BN1 4EQ",
+      "postcode": "BN1 4EQ",
+      "proposal": "North Laine Trafalgar Street independent F&B unit change of use from retail to dine-in with retained heritage frontage",
+      "type": "COU",
+      "status": "Approved",
+      "received": "15/06/2025",
+      "portal": "https://planningapps.brighton-hove.gov.uk/online-applications/"
+    },
+    {
+      "ref": "BH2025/01145/FUL",
+      "address": "Patcham Court Farm, London Road, Brighton BN1 8YD",
+      "postcode": "BN1 8YD",
+      "proposal": "Patcham Court Farm trade and commercial accommodation, new Class B1 and Class B2 light industrial and trade-counter units on north Brighton commercial fringe",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "01/06/2025",
+      "portal": "https://planningapps.brighton-hove.gov.uk/online-applications/"
+    },
+    {
+      "ref": "BH2025/01012/FUL",
+      "address": "Norton Road, Hove BN3 4AH",
+      "postcode": "BN3 4AH",
+      "proposal": "Norton Road Hove Town Hall area professional services office scheme, Grade B office refurbishment serving Hove professional firm cluster",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "18/05/2025",
+      "portal": "https://planningapps.brighton-hove.gov.uk/online-applications/"
+    }
+  ]
+}
