@@ -1,6 +1,8 @@
 # GoHighLevel Lead Integration — Setup Guide
 
-Ready-to-use guide for wiring up finance sites to GoHighLevel. Copy the code blocks directly — credentials and IDs are pre-filled.
+Ready-to-use guide for wiring up finance sites to GoHighLevel. The shared identifiers below are examples; supply credentials through the hosting environment and never commit them to source control.
+
+> **Security:** Create or rotate the API key in GoHighLevel, then add it directly to the hosting provider's environment variables. Do not paste a live key into this guide, application code, logs, screenshots, or support messages.
 
 ---
 
@@ -9,7 +11,7 @@ Ready-to-use guide for wiring up finance sites to GoHighLevel. Copy the code blo
 Create this file in the project root. Confirm `.env*` is in `.gitignore`.
 
 ```
-GHL_API_KEY=pit-d32839e6-5f3e-41a3-b70f-9abfa11e12c9
+GHL_API_KEY=
 GHL_LOCATION_ID=PGDuQBCMN1YuS6cV6fS9
 GHL_PIPELINE_ID=MLI45UJOs037pZdAEK0P
 GHL_ENQUIRY_STAGE_ID=2b7de044-0bfe-4165-a9e6-ced7a8e54616
@@ -246,7 +248,7 @@ For reference, these are the current values (all sites share the same GHL sub-ac
 
 | Item | Value |
 |---|---|
-| **API Key** | `pit-d32839e6-5f3e-41a3-b70f-9abfa11e12c9` (rotates every 7 days) |
+| **API Key** | Set in the hosting environment; never commit it |
 | **Location ID** | `PGDuQBCMN1YuS6cV6fS9` |
 | **Pipeline** | Construction Capital Pipeline (`MLI45UJOs037pZdAEK0P`) |
 | **Enquiry Stage** | `2b7de044-0bfe-4165-a9e6-ced7a8e54616` |
@@ -282,7 +284,7 @@ Base URL: `https://services.leadconnectorhq.com`
 
 All requests need these headers:
 ```
-Authorization: Bearer pit-d32839e6-5f3e-41a3-b70f-9abfa11e12c9
+Authorization: Bearer $GHL_API_KEY
 Version: 2021-07-28
 Content-Type: application/json
 ```
